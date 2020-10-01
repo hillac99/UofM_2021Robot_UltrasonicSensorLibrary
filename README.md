@@ -1,0 +1,4 @@
+# UofM_2021Robot_UltrasonicSensorLibrary
+This Arduino library was created to simplify using HC-SR04 ultrasonic sensors with an Arduino Mega. The library can be used in your code by creating an object of the class "UofM_Ultrasonic". The default constructor will set the trigger pin to digital pin 30 and the echo pin to digital pin 31. The name comes from the name of my university (University of Memphis) and ultrasonic sensor. Please note that the code was created in PlatformIO which has a very directory structure from the Arduino IDE. The source code to run on the arduino is also a .cpp file rather than a .ino file becuase of the use of PlatformIO.
+
+While I mainly intend to use this code to help the 2020 - 2021 IEEE University of Memphis Robot Team, I have no problems with anyone in the public using it for any purpose. 
